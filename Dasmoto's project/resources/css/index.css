@@ -1,0 +1,24 @@
+body h1 {
+  background-image: url(/resources/css/pattern.webp);
+  color: khaki;
+  font-size: 100px;
+  text-align: center;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+#frames {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: aqua;
+}
+
+.item h2 {
+  font-size: 32px;
+}
+
+.strong {
+  color: blue;
+}
